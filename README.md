@@ -12,4 +12,4 @@
 <code>📫 [m.khvyts.ser@gmail.com](mailto:m.khvyts.ser@gmail.com)</code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makskhv21&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makskhv21&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
