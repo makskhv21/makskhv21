@@ -4,7 +4,8 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Reports](REPORTS.md)</code><br>
+<code>👀 [Reports](REPORTS.md)</code>
+<code>🪙 [myCertificates](https://github.com/makskhv21/myCertificates)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: Node.js, React.js</code>
 <code>📚 [Rates](RATES.md)</code><br>
