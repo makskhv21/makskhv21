@@ -7,7 +7,7 @@
 <code>👀 [Reports](REPORTS.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: Node.js, React.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
+<code>📚 [Rates](RATES.md)</code><br>
 <code>💬 LinkedIn: [Maksim Khvyts](https://www.linkedin.com/in/maksim-khvyts-5833b82b5/)</code>
 <code>📫 [m.khvyts.ser@gmail.com](mailto:m.khvyts.ser@gmail.com)</code>
 
