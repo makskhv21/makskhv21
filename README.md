@@ -12,5 +12,5 @@
 <code>💬 LinkedIn: [Maksim Khvyts](https://www.linkedin.com/in/maksim-khvyts-5833b82b5/)</code>
 <code>📫 [m.khvyts.ser@gmail.com](mailto:m.khvyts.ser@gmail.com)</code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makskhv21&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makskhv21&layout=compact&theme=dark)
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=makskhv21&show_icons=true&theme=dark)
