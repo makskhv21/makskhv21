@@ -14,3 +14,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makskhv21&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=makskhv21&theme=dark&border_radius=5)](https://github.com/denvercoder1/github-readme-streak-stats)
