@@ -105,20 +105,15 @@
 
 ### GitHub Stats :
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/makskhv21">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=makskhv21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maks Khvyts' github stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/makskhv21">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makskhv21&layout=compact&theme=buefy&langs_count=8&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makskhv21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/makskhv21/makskhv21/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
