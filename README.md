@@ -6,7 +6,6 @@
   <p style="font-size: 18px; color: #7f8c8d;">Welcome to my GitHub profile! ✨</p>
 </div>
 
-
 ### About Me :
 
 <code>🎓 Student: KPI </code>
@@ -146,3 +145,5 @@
   </p>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150px" alt="Coding Meme" style="border-radius: 10px;" />
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/makskhv21/makskhv21/output/github-contribution-grid-snake.svg)
