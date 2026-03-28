@@ -20,6 +20,8 @@
 <code>💬 LinkedIn: [Maksim Khvyts](https://www.linkedin.com/in/maksim-khvyts-5833b82b5/)</code>
 <code>📫 [Email](mailto:m.khvyts.ser@gmail.com)</code>
 
+---
+
 ### My stack and tools :
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -102,22 +104,13 @@
   </table>
 </div>
 
+---
+
 ### GitHub Stats :
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/makskhv21">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=makskhv21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maks Khvyts' github stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/makskhv21">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makskhv21&layout=compact&theme=buefy&langs_count=8&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=makskhv21&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
@@ -145,5 +138,3 @@
   </p>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150px" alt="Coding Meme" style="border-radius: 10px;" />
 </div>
-
-![Snake animation](https://raw.githubusercontent.com/makskhv21/makskhv21/output/github-contribution-grid-snake.svg)
