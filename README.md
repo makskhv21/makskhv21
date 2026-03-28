@@ -10,7 +10,7 @@
 
 <code>🎓 Student: KPI </code>
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Frontend</code><br>
+<code>👷 Speciality: Software Engineer / Frontend Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
