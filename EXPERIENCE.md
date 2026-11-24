@@ -1,9 +1,14 @@
 # Experience
 
-No commercial roles yet. This page will list internships and jobs as they start.
+## Software Engineer — Confidential
 
-What stands in for work experience today:
+_2024 – Present_
 
-- Study at Kyiv Polytechnic Institute
-- Metarhia educational program
-- Personal projects in [Projects](PROJECTS.md)
+- Developed and maintained software applications.
+- Worked with HTML5, CSS3, JavaScript, TypeScript, Python, React.js, Node.js, SQL, Sass, BEM, Tailwind CSS, Redux, Postman, MongoDB, Git, Visual Studio Code, npm, Figma.
+- Implemented new features and improved existing functionality.
+- Collaborated with the development team.
+
+## Personal Projects
+
+- See [Projects](PROJECTS.md).
